@@ -1,0 +1,6 @@
+Introduction of data factory:
+											data factory
+											sassi function
+							ELT													ETL
+					extract-load-trancefor								extract-trancefor-load
+					
